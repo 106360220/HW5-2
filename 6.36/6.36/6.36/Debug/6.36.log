@@ -1,0 +1,5 @@
+﻿  main.c
+e:\106360220_楊沛紋\6.36\source\main.c(11): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 請參閱 'scanf' 的宣告
+  6.36.vcxproj -> E:\106360220_楊沛紋\6.36\6.36\Debug\6.36.exe
+  6.36.vcxproj -> E:\106360220_楊沛紋\6.36\6.36\Debug\6.36.pdb (Partial PDB)
